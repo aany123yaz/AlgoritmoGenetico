@@ -12,6 +12,6 @@ el algoritmo  desde consola.
 Cuando se ejecuta el programa, se solicita que  ingrese la siguiente informacion
 Ingrese cantidad de nodos:
 Ingrese valor de  distancia:
-EJEMPLO DE USO
+# EJEMPLO DE USO
 Ingrese cantidad de nodos: 4
 Ingrese valor de distancia: 2
