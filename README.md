@@ -5,7 +5,7 @@
 El problema consiste en resolver todas las rutas posibles de un viajero a su destin,
 es decir el algoritmo hace la ejecucion de varias rutas posibles  en las cuales el viajero 
 puede tomar para llegar a su destino. 
-EJECUCION
+# EJECUCION
 El algoritmo se desarrollo en un IDE llamado Eclipse en el cual dentro de la aplicacion permite compilar 
 el algoritmo  desde consola.
 VALORES DE ENTRADA DEL PROGRAMA
