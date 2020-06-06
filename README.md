@@ -1,7 +1,7 @@
 # AlgoritmoGenetico
-Algoritmo Genetico de un Viajero
-IMPLEMENTACION DE UN ALGORITMO GENETICO EN PYTHON CON ECLIPSE
-DESCRIPCION DEL PROBLEMA
+# Algoritmo Genetico de un Viajero
+# IMPLEMENTACION DE UN ALGORITMO GENETICO EN PYTHON CON ECLIPSE
+# DESCRIPCION DEL PROBLEMA
 El problema consiste en resolver todas las rutas posibles de un viajero a su destin,
 es decir el algoritmo hace la ejecucion de varias rutas posibles  en las cuales el viajero 
 puede tomar para llegar a su destino. 
