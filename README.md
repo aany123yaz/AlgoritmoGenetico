@@ -8,7 +8,7 @@ puede tomar para llegar a su destino.
 # EJECUCION
 El algoritmo se desarrollo en un IDE llamado Eclipse en el cual dentro de la aplicacion permite compilar 
 el algoritmo  desde consola.
-VALORES DE ENTRADA DEL PROGRAMA
+# VALORES DE ENTRADA DEL PROGRAMA
 Cuando se ejecuta el programa, se solicita que  ingrese la siguiente informacion
 Ingrese cantidad de nodos:
 Ingrese valor de  distancia:
